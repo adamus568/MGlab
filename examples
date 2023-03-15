@@ -1,0 +1,45 @@
+A#:
+
+import -załąduj
+pent -pentla
+penstop - koniec pentli
+penlines -ilość powtóżeń
+if -jeśli
+craft -kompiluje program
+down(nazwaprogramu)
+cs 
+print -Napisz
+printx -napisz wirtualnie wifi,radio
+wifi -połącz wifi
+blue -połącz blue
+led(on)
+led(off)
+button(patrool)
+button(sleep)
+button(check)
+manager-package
+manager-instructions
+yes=
+no=
+z= (nazwa zmiennej)
+dc- (nazwa zmiennej)
+pot
+potset
+potunset
+pin(on)
+pin(off)
+pin(1-30)
+pin(5v_)
+pin(gnd_)
+#step(1-100)
+cone-ip
+stand
+play
+stop
+savehar
+debug
+
+
+
+			 
+
